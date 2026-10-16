@@ -48,4 +48,4 @@ app.*.map.json
 .widget_preview/
 
 # API Keys - ห้าม commit
-lib/data/ai_config.dart
+
